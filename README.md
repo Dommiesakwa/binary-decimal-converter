@@ -1,5 +1,7 @@
 # binary-decimal-converter
 #This program allows a user to enter any binary number and it returns its decimal equivalent. In case the user enters a number that is not binary, it prints out an error message. Written in Python code.
+
+
 def binaryToDecimal(binary):
 
 
